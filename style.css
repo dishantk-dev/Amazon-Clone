@@ -168,7 +168,58 @@
 
 
 
+
+
+
+
+
+
+
+
+
+
 .header2{
   height: 40px;
-  background-color: #1c1f1f;
+  background-color: #222f3d;
+  
+   
 }
+.nav-spirit{
+  height: 40px;
+  
+  display: flex;
+   
+
+}
+
+/* menu logo */
+.menu{
+color: azure;
+font-weight:800;
+height :40px ;
+width: 80px;
+margin-left:15px;
+display: flex;
+align-items: center;
+}
+/* menu items */
+.other-ser{
+  height: 40px;
+ margin-right: 30px;
+  width: 1700px;
+  display: flex;
+  align-items: center;
+  color: azure;
+  justify-content: space-evenly;
+}
+.element-div {
+height: 36px;
+width: auto;
+display: flex;
+  align-items: center;
+}
+
+
+
+
+
