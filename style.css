@@ -367,7 +367,7 @@
 /* Other items */
 
 .other_items {
-  height: 5000px;
+  height: auto;
   width: 100%;
   /* background-color: black; */
 }
